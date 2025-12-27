@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -38,7 +35,7 @@
             <span style="font-size: 10px; color: #27ae60; font-weight: bold;">BEST SELLER</span>
             <h3 style="margin: 5px 0; font-size: 15px;">Oreg Tempe Manis</h3>
             <div class="price">Rp 8.000</div>
-            <a href="https://wa.me/628123456789?text=Halo Nanda, saya mau pesan Oreg Tempe" class="btn-buy">Pesan</a>
+            <a href="https://wa.me/6283895705277?text=Halo Nanda, saya mau pesan Oreg Tempe" class="btn-buy">Pesan</a>
         </div>
     </div>
 
@@ -48,12 +45,13 @@
             <span style="font-size: 10px; color: #888;">Sayuran</span>
             <h3 style="margin: 5px 0; font-size: 15px;">Sayur Hijau</h3>
             <div class="price">Rp 5.000</div>
-            <a href="https://wa.me/628123456789?text=Mau pesan Sayur" class="btn-buy">Pesan</a>
+            <a href="https://wa.me/6283895705277?text=Mau pesan Sayur" class="btn-buy">Pesan</a>
         </div>
     </div>
 </div>
 
-<a href="https://wa.me/628123456789" class="wa-float">💬</a>
+<a href="https://wa.me/6283895705277" class="wa-float">💬</a>
+
 <footer style="text-align: center; padding: 20px; font-size: 12px; color: #888;">&copy; 2025 Nanda Habibi Market</footer>
 
 </body>
