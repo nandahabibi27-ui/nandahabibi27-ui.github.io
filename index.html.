@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nanda Habibi Market</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 0; background-color: #f0f2f1; }
+        header { background-color: #2ecc71; color: white; padding: 25px; text-align: center; }
+        .promo { background: #27ae60; color: white; padding: 10px; text-align: center; font-size: 14px; }
+        .container { padding: 15px; display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; padding-bottom: 10px; }
+        .card img { width: 100%; height: 120px; object-fit: cover; background: #ddd; }
+        .card h3 { font-size: 16px; margin: 10px 0 5px; color: #333; }
+        .card p { color: #2ecc71; font-weight: bold; margin: 0 0 10px; }
+        .btn { background: #2ecc71; color: white; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-size: 12px; display: inline-block; }
+        footer { text-align: center; padding: 20px; color: #888; font-size: 12px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nanda Habibi Market</h1>
+    <p>Segar, Higienis, & Terpercaya</p>
+</header>
+
+<div class="promo">✨ Promo Hari Ini: Diskon Ongkir Wilayah UI! ✨</div>
+
+<div class="container">
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400" alt="Sayur">
+        <h3>Sayur Hijau</h3>
+        <p>Rp 5.000</p>
+        <a href="https://wa.me/6283895705277?text=Halo, saya mau beli Sayur Hijau" class="btn">Beli Sekarang</a>
+    </div>
+    
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1553163112-8221ace6b241?w=400" alt="Daging">
+        <h3>Daging Ayam</h3>
+        <p>Rp 35.000</p>
+        <a href="https://wa.me/628123456789?text=Halo, saya mau beli Daging Ayam" class="btn">Beli Sekarang</a>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=400" alt="Buah">
+        <h3>Buah Segar</h3>
+        <p>Rp 20.000</p>
+        <a href="https://wa.me/628123456789?text=Halo, saya mau beli Buah Segar" class="btn">Beli Sekarang</a>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400" alt="Bumbu">
+        <h3>Bumbu Dapur</h3>
+        <p>Rp 2.000</p>
+        <a href="https://wa.me/628123456789?text=Halo, saya mau beli Bumbu Dapur" class="btn">Beli Sekarang</a>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 Nanda Habibi Market</p>
+</footer>
+
+</body>
+</html>
